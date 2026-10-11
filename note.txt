@@ -1,1 +1,3 @@
 热身练习10月1日
+我在学Git
+今天学会了git init/add/commit
