@@ -1,3 +1,1 @@
-我在学 Git
-今天学会了 git init / add / commit
-这是在dev分支上加的,master上看不到
+热身练习10月1日
